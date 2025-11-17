@@ -1,4 +1,6 @@
-books:[
-                {titre:"zahra",auteur:"foulen",annee:"2001",dispo:true},
-                {titre:"zohra",auteur:"falten",annee:"2000",dispo:false},
-            ];
+{
+  "books": [
+    { "titre": "zahra", "auteur": "foulen", "annee": "2001", "dispo": true },
+    { "titre": "zohra", "auteur": "falten", "annee": "2000", "dispo": false }
+  ]
+}
